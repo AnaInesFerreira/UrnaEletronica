@@ -23,7 +23,7 @@ export class Tab2Page {
       name: 'Ana Ines',
       electoralParty: 'PTS',
       vice: 'Jeff trouxa',
-      numberId: 698,
+      numberId: 789,
     },
     {
       name: 'Kyu Hayato',
