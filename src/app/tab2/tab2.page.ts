@@ -71,7 +71,7 @@ export class Tab2Page {
     } else if (this.candidate[0].numberId === 272) {
       this.candidateTwo++;
       this.candidateTwoPct = (this.candidateTwo * 100) / this.totalVotes;
-    } else if (this.candidate[0].numberId === 698) {
+    } else if (this.candidate[0].numberId === 789) {
       this.candidateThree++;
       this.candidateThreePct = (this.candidateThree * 100) / this.totalVotes;
     } else if (this.candidate[0].numberId === 767) {
