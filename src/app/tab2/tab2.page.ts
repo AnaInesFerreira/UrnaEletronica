@@ -55,7 +55,6 @@ export class Tab2Page {
         (item) => item.numberId === Number(value)
       );
       this.candidate = this.candidatesView[0];
-      console.log('aqui', this.candidatesView);
     }
   }
   toCorrect() {
